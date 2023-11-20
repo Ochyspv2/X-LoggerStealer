@@ -11,3 +11,4 @@
 10) mdp edge
 11) mdp firefox
     
+# pour un best tool https://github.com/Ochyspv2/X_LoggerMultiTools
